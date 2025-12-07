@@ -1,31 +1,4 @@
 
-# Financial Markets
-# Which financial market deals with short-term funds (maturity up to one year)?
-# A. Capital Market
-# B. Money Market
-# C. Derivative Market
-# D. Forex Market
-# Answer: B
-# Treasury bills are instruments of short-term borrowing issued by the government and are also called:
-# A. Trade bills
-# B. Call money
-# C. Zero-coupon bonds
-# D. Commercial papers
-# Answer: C
-# The process of holding shares in electronic form is known as:
-# A. Demutualization
-# B. Dematerialization
-# C. Speculation
-# D. None of the above
-# Answer: B
-# The basic function of financial markets is to channel funds from lenders-savers to:
-# A. The government
-# B. Foreign investors
-# C. Borrowers-spenders
-# D. Other financial institutions
-# Answer: C
-
-
 print('Welcome to Financial Management Quiz!')
 
 playing = input('Did you want to play? ')
@@ -165,4 +138,5 @@ else:
 
 
 print(f'You got {int(score/10)} score correctly')
+
 print(f'You got {score}%')
